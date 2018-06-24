@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <title>Klántabella</title>
+  <meta charset="utf-8">
+  <style>
+		table, tr, th, td{
+			border: 1px solid;
+		}
+	</style>
+<body>
+ <table>
+  <caption>ALKOHOLSZINT MEGHATÁROZÁSAI</caption>
+  <thead>
+   <tr>
+    <th>VÉR</th>
+    <th>LÉG</th>
+    <td> </td>
+   </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>-0,2g/l</td>
+      <td>-0,11 mg/l</td>
+      <th>Az alkoholfogyasztás nem bizonyítható.</th>
+    </tr>
+    <tr>
+      <td>0,21-0,50 g/l</td>
+      <td>0,11-0,24 mg/l</td>
+      <th>Ivott de alkoholosan nem volt befolyásolt</th>
+    </tr>
+    <tr>
+      <td>0,51-0,80 g/l</td>
+      <td>0,26-0,40 mg/l</td>
+      <th>Igen enyhe</th>
+    </tr>
+    <tr>
+      <td>0,81-1,50 g/l</td>
+      <td>0,41-0,75 mg/l</td>
+      <th>Enyhe</th>
+    </tr>
+    <tr>
+      <td>1,50-2,50 g/l</td>
+      <td>0,76-1,25 mg/l</td>
+      <th>Közepes</th>
+    </tr>
+    <tr>
+      <td>2,51-3,50 g/l</td>
+      <td>1,26-1,75 mg/l</td>
+      <th>Súlyos</th>
+    </tr>
+    <tr>
+      <td>3,51 g/l -</td>
+      <td>1,76 mg/l -</td>
+      <th>Igen súlyos</th>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
