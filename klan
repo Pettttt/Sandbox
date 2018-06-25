@@ -27,7 +27,7 @@ table, tr, th, td{border: 1px solid;}
   </thead>
   <tbody>
     <tr>
-      <td>1<td>
+      <th>1</th>
       <td>0</td>
       <td><img src="https://files.slack.com/files-pri/T746QL547-FBCCF5EAU/hungarian.png" alt="Hungarian Crown"/></td>
       <td>Hungarian Crown</td>
@@ -41,7 +41,7 @@ table, tr, th, td{border: 1px solid;}
       <td>27</td>
     </tr>
     <tr>
-      <td>2<td>
+      <th>2</th>
       <td>0</td>
       <td><img src="https://files.slack.com/files-pri/T746QL547-FBCS8500L/society.png" alt="Society Spirit"/></td>
       <td>Society Spirit</td>
@@ -55,7 +55,7 @@ table, tr, th, td{border: 1px solid;}
       <td>21</td>
     </tr>   
     <tr>
-      <td>3<td>
+      <th>3</th>
       <td>0</td>
       <td><img src="https://files.slack.com/files-pri/T746QL547-FBE4WM61M/teamg.png" alt="TeamGeist"/></td>
       <td>TeamGeist</td>
@@ -69,7 +69,7 @@ table, tr, th, td{border: 1px solid;}
       <td>18</td>
     </tr>   
     <tr>
-      <td>4<td>
+      <th>4</th>
       <td>0</td>
       <td><img src="https://files.slack.com/files-pri/T746QL547-FBCCF6ZRN/outlaws.png" alt="Outlaws"/></td>
       <td>Outlaws</td>
@@ -83,7 +83,7 @@ table, tr, th, td{border: 1px solid;}
       <td>10</td>
     </tr>   
     <tr>
-      <td>5<td>
+      <th>5</th>
       <td>0</td>
       <td><img src="https://files.slack.com/files-pri/T746QL547-FBCS86GTE/rookies.png" alt="Rookies"/></td>
       <td>Rookies</td>
@@ -97,7 +97,7 @@ table, tr, th, td{border: 1px solid;}
       <td>8</td>
     </tr>   
     <tr>
-      <td>6<td>
+      <th>6</th>
       <td>0</td>
       <td><img src="https://files.slack.com/files-pri/T746QL547-FBCS86WTW/strategy.png" alt="Strategy Killers"/></td>
       <td>Strategy Killers</td>
