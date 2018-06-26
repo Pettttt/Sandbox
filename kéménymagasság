@@ -13,13 +13,13 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2">Kéménymagasság(m)</th>
-      <th>5</th>
-      <th>6</th>
-      <th>7</th>
-      <th>8</th>
-      <th>9</th>
-      <th>10</th>
+     <th colspan="2" id="kemeny" class="span" scope="colgroup">Kéménymagasság(m)</th>
+      <th id="five" scope="col">5</th>
+      <th id="six" scope="col">6</th>
+      <th id="seven" scope="col">7</th>
+      <th id="eight" scope="col">8</th>
+      <th id="nine" scope="col">9</th>
+      <th id="ten" scope="col">10</th>
     </tr>
   </thead>
   <tbody>
