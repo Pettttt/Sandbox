@@ -13,46 +13,46 @@
   <caption>ALKOHOLSZINT MEGHATÁROZÁSAI</caption>
   <thead>
    <tr>
-    <th>VÉR</th>
-    <th>LÉG</th>
-    <td> </td>
+    <th id="blood" scope="col">VÉR</th>
+    <th id="air" scope="col">LÉG</th>
+    <td id="empty">&nbsp;</td>
    </tr>
   </thead>
   <tbody>
     <tr>
-      <td>-0,2g/l</td>
-      <td>-0,11 mg/l</td>
-      <th>Az alkoholfogyasztás nem bizonyítható.</th>
+      <td headers="notalcohol blood">-0,2g/l</td>
+      <td headers="notalcohol air">-0,11 mg/l</td>
+      <th id="notalcohol" scope="row">Az alkoholfogyasztás nem bizonyítható.</th>
     </tr>
     <tr>
-      <td>0,21-0,50 g/l</td>
-      <td>0,11-0,24 mg/l</td>
-      <th>Ivott de alkoholosan nem volt befolyásolt</th>
+      <td headers="keves blood">0,21-0,50 g/l</td>
+      <td headers="keves air">0,11-0,24 mg/l</td>
+      <th id="keves" scope="row">Ivott de alkoholosan nem volt befolyásolt</th>
     </tr>
     <tr>
-      <td>0,51-0,80 g/l</td>
-      <td>0,26-0,40 mg/l</td>
-      <th>Igen enyhe</th>
+      <td headers="ienyhe blood">0,51-0,80 g/l</td>
+      <td headers="ienyhe air">0,26-0,40 mg/l</td>
+      <th id="ienyhe" scope="row">Igen enyhe</th>
     </tr>
     <tr>
-      <td>0,81-1,50 g/l</td>
-      <td>0,41-0,75 mg/l</td>
-      <th>Enyhe</th>
+      <td headers="enyhe blood">0,81-1,50 g/l</td>
+      <td headers="enyhe air">0,41-0,75 mg/l</td>
+      <th id="enyhe" scope="row">Enyhe</th>
     </tr>
     <tr>
-      <td>1,50-2,50 g/l</td>
-      <td>0,76-1,25 mg/l</td>
-      <th>Közepes</th>
+      <td headers="közepes blood">1,50-2,50 g/l</td>
+      <td headers="közepes air">0,76-1,25 mg/l</td>
+      <th id="közepes" scope="row">Közepes</th>
     </tr>
     <tr>
-      <td>2,51-3,50 g/l</td>
-      <td>1,26-1,75 mg/l</td>
-      <th>Súlyos</th>
+      <td headers="súlyos blood">2,51-3,50 g/l</td>
+      <td headers="súlyos air">1,26-1,75 mg/l</td>
+      <th id="súlyos" scope="row">Súlyos</th>
     </tr>
     <tr>
-      <td>3,51 g/l -</td>
-      <td>1,76 mg/l -</td>
-      <th>Igen súlyos</th>
+      <td headers="isúlyos blood">3,51 g/l -</td>
+      <td headers="isúlyos air">1,76 mg/l -</td>
+      <th id="isúlyos" scope="row">Igen súlyos</th>
     </tr>
   </tbody>
 </table>
