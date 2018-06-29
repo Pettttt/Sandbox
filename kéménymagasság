@@ -25,7 +25,7 @@
   <tbody>
    <tr>
     <th id="wood" rowspan="2" scope="row">Fa -vagy széntüzelésű készülék</th>
-    <td headers="wood kemeny">&empty;160</td>
+    <th headers="wood kemeny">&empty;160</th>
      <td headers="wood five">16</td>
      <td headers="wood six">18</td>
      <td headers="wood seven">20</td>
@@ -34,7 +34,7 @@
      <td headers="wood ten">25</td>
     </tr>
     <tr>
-      <td headers="wood kemeny">&empty;200</td>
+      <th headers="wood kemeny">&empty;200</th>
       <td headers="wood five">25</td>
       <td headers="wood six">29</td>
       <td headers="wood seven">33</td>
@@ -44,7 +44,7 @@
     </tr>
      <tr>
        <th id="notgas" rowspan="2" scope="row">Nem túlnyomásos gázkészülék(Kw)</th>
-       <td headers="notgas kemeny">&empty;160</td>
+       <th headers="notgas kemeny">&empty;160</th>
        <td headers="notgas five">40</td>
        <td headers="notgas six">43</td>
        <td headers="notgas seven">46</td>
@@ -53,7 +53,7 @@
        <td headers="notgas ten">49</td>
     </tr>
     <tr>
-      <td headers="notgas kemeny">&empty;200</td>
+      <th headers="notgas kemeny">&empty;200</th>
       <td headers="notgas five">70</td>
       <td headers="notgas six">75</td>
       <td headers="notgas seven">80</td>
