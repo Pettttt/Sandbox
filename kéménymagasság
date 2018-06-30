@@ -25,41 +25,41 @@
   <tbody>
    <tr>
     <th id="wood" rowspan="2" scope="row">Fa -vagy széntüzelésű készülék</th>
-    <th headers="wood kemeny">&empty;160</th>
-     <td headers="wood five">16</td>
-     <td headers="wood six">18</td>
-     <td headers="wood seven">20</td>
-     <td headers="wood eight">22</td>
-     <td headers="wood nine">24</td>
-     <td headers="wood ten">25</td>
+    <th id="szazhatvan" scope="col">&empty;160</th>
+     <td headers="wood szazhatvan five">16</td>
+     <td headers="wood szazhatvan six">18</td>
+     <td headers="wood szazhatvan seven">20</td>
+     <td headers="wood szazhatvan eight">22</td>
+     <td headers="wood szazhatvan nine">24</td>
+     <td headers="wood szazhatvan ten">25</td>
     </tr>
     <tr>
-      <th headers="wood kemeny">&empty;200</th>
-      <td headers="wood five">25</td>
-      <td headers="wood six">29</td>
-      <td headers="wood seven">33</td>
-      <td headers="wood eight">36</td>
-      <td headers="wood nine">38</td>
-      <td headers="wood ten">40</td>
+      <th id="ketszaz" scope="col">&empty;200</th>
+      <td headers="wood ketszaz five">25</td>
+      <td headers="wood ketszaz six">29</td>
+      <td headers="wood ketszaz seven">33</td>
+      <td headers="wood ketszaz eight">36</td>
+      <td headers="wood ketszaz nine">38</td>
+      <td headers="wood ketszaz ten">40</td>
     </tr>
      <tr>
        <th id="notgas" rowspan="2" scope="row">Nem túlnyomásos gázkészülék(Kw)</th>
-       <th headers="notgas kemeny">&empty;160</th>
-       <td headers="notgas five">40</td>
-       <td headers="notgas six">43</td>
-       <td headers="notgas seven">46</td>
-       <td headers="notgas eight">49</td>
-       <td headers="notgas nine">49</td>
-       <td headers="notgas ten">49</td>
+       <th id="szazhatvan" scope="col">&empty;160</th>
+       <td headers="notgas szazhatvan five">40</td>
+       <td headers="notgas szazhatvan six">43</td>
+       <td headers="notgas szazhatvan seven">46</td>
+       <td headers="notgas szazhatvan eight">49</td>
+       <td headers="notgas szazhatvan nine">49</td>
+       <td headers="notgas szazhatvan ten">49</td>
     </tr>
     <tr>
-      <th headers="notgas kemeny">&empty;200</th>
-      <td headers="notgas five">70</td>
-      <td headers="notgas six">75</td>
-      <td headers="notgas seven">80</td>
-      <td headers="notgas eight">85</td>
-      <td headers="notgas nine">85</td>
-      <td headers="notgas ten">85</td>
+      <th id="ketszaz">&empty;200</th>
+      <td header="notgas ketszaz five">70</td>
+      <td headers="notgas ketszaz six">75</td>
+      <td headers="notgas ketszaz seven">80</td>
+      <td headers="notgas ketszaz eight">85</td>
+      <td headers="notgas ketszaz nine">85</td>
+      <td headers="notgas ketszaz ten">85</td>
     </tr>
   </tbody>
 </table>
